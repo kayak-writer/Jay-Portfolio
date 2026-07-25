@@ -26,4 +26,4 @@ I built Chase The Split to analyze my workouts by creating charts and tables out
 
 [Chase The Split README](CTS_README.md) 
 
-[Chase The Split Docs](https://docs.chasethesplit.com/docs)
+[Chase The Split Docs](https://docs.chasethesplit.com/)
