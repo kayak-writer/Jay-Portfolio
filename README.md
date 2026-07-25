@@ -16,7 +16,7 @@ These product announcements highlight new features for in-depth industry data wi
 
 ## Help Center Page
 
-This help center page highlights a report available within complex financial markets software. It covers how to access the report, as well as how to customize it. These pages provide a comprehensive reference that covers all the features available in a report. I update the page when new features become available or if the User Experience (UX)/User Interface (UI) changes.
+This help center page highlights a report available within complex financial markets software. It covers how to access the report, as well as how to customize it. I update the page when new features become available or if the User Experience (UX)/User Interface (UI) changes.
 
 [Cellular Infrastructure Shipments](Cellular_Infrastructure_Shipments_OA_Page.pdf)
 
