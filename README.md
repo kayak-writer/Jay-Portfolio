@@ -1,7 +1,7 @@
 Welcome to my technical writing portfolio! I am a technical writer focused on documenting complex Software-as-a-Service (SaaS) platforms for sophisticated audiences. The portfolio includes:
 
 * [Product Announcements](#product-announcements)
-* [Help Center Pages](#help-center-pages)
+* [Help Center Page](#help-center-pages)
 * [Side Projects](#side-projects)
 
 ## Product Announcements
@@ -14,7 +14,7 @@ These product announcements highlight new features for in-depth industry data wi
 
 [Video Revenue and Programming Report](Video_Revenue_and_Programming_Report_Notify.pdf)
 
-## Help Center Pages
+## Help Center Page
 
 This help center page highlights a report available within complex financial markets software. It covers how to access the report, as well as how to customize it. These pages provide a comprehensive reference that covers all the features available in a report. I update the page when new features become available or if the User Experience (UX)/User Interface (UI) changes.
 
@@ -26,4 +26,4 @@ I built Chase The Split to analyze my workouts by creating charts and tables out
 
 [Chase The Split README](CTS_README.md) 
 
-[Chase The Split Docs](https://docs.chasethesplit.com/docs/getting-started/connect-to-concept2-logbook)
+[Chase The Split Docs: Connect to Concept2 Logbook](https://docs.chasethesplit.com/docs/getting-started/connect-to-concept2-logbook)
