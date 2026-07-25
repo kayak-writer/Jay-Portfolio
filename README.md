@@ -1,6 +1,12 @@
-This is my portfolio of product announcements, a help center page, and a README for a side project.
+Welcome to my technical writing portfolio! I am a technical writer focused on documenting complex Software-as-a-Service (SaaS) platforms for sophisticated audiences. The portfolio includes:
+
+* [Product Announcements](#product-announcements)
+* [Help Center Pages](#help-center-pages)
+* [Side Projects](#side-projects)
 
 ## Product Announcements
+
+These product announcements highlight new features for in-depth industry data within complex financial markets software geared toward investment bankers, wealth managers, asset managers, and asset owners. These audiences receive the announcements by email if they are subscribed to them. The announcements focus on a new feature or a change to an existing workflow and aim to interest customers in new features without sounding like marketing collateral.
 
 [Cellular Infrastructure Shipments](Cellular_Infrastructure_Shipments_Notify.pdf)
 
@@ -10,8 +16,13 @@ This is my portfolio of product announcements, a help center page, and a README 
 
 ## Help Center Pages
 
+This help center page highlights a report available within complex financial markets software. It covers how to access the report, as well as how to customize it. These pages provide a comprehensive reference that covers all the features available in a report. I update the page when new features become available or if the User Experience (UX)/User Interface (UI) changes.
+
 [Cellular Infrastructure Shipments](Cellular_Infrastructure_Shipments_OA_Page.pdf)
 
 ## Side Projects
 
+I built Chase The Split to analyze my workouts by creating charts and tables out of my logbook from my Concept2 rowing data. I coded the app with Replit's AI agent and built a knowledge base using static GitHub Pages and Docusaurus.
+
 [Chase The Split README](CTS_README.md) 
+[Chase The Split Docs](https://docs.chasethesplit.com/docs)
