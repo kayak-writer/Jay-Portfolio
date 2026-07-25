@@ -25,4 +25,5 @@ This help center page highlights a report available within complex financial mar
 I built Chase The Split to analyze my workouts by creating charts and tables out of my logbook from my Concept2 rowing data. I coded the app with Replit's AI agent and built a knowledge base using static GitHub Pages and Docusaurus.
 
 [Chase The Split README](CTS_README.md) 
+
 [Chase The Split Docs](https://docs.chasethesplit.com/docs)
